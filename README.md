@@ -4,7 +4,7 @@
 ## Demonstration video
 https://github.com/Ym-Shan/Game-Script-of-NengFou/assets/121172737/9c74841f-d43f-436f-855a-a661d6226c84
 ## The average hash algorithm code is as follows
-'''
+```
 def image_similarity(image_path1, image_path2):
     hash1 = imagehash.average_hash(Image.open(image_path1))
     hash2 = imagehash.average_hash(Image.open(image_path2))
@@ -22,7 +22,7 @@ def choose_matching_image(existing_image_path, image_paths):
         if similarity_score < threshold:
             print(f"find pic：{image_path}")
             return image_path
-'''
+```
 ## You just need to drag the mini program window to the top left corner of the screen and execute the Python script.
 ### The processing logic of the program is as follows:
 #### 1.Obtain the real serial number of the cover image
