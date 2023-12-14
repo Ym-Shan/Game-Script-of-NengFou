@@ -7,8 +7,12 @@ https://github.com/Ym-Shan/Game-Script-of-NengFou/assets/121172737/9c74841f-d43f
 ## The processing logic of the program is as follows:
 1.Obtain the real serial number of the cover image
 <img width="307" alt="image" src="https://github.com/Ym-Shan/Game-Script-of-NengFou/assets/121172737/50ad2dfd-d579-4d5c-9674-8268cb875428">
+
+
 2.Obtain the true serial numbers of three small images
 <img width="306" alt="image" src="https://github.com/Ym-Shan/Game-Script-of-NengFou/assets/121172737/65a4c1e3-487c-4bcb-b03d-d1a46bf1bdf4">
+
+
 3.Compare two serial numbers for automatic clicking
 
 ### The average hash algorithm code is as follows
